@@ -1,5 +1,4 @@
-# pingping
-Ping Ping CrowdFunding
+# Ping Ping CrowdFunding Website
 # 共同檢核點
 ## 版型檢核點
 
