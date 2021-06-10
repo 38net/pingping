@@ -35,5 +35,5 @@
 * 不要在 .col 的 HTML 標籤用到 margin 左右推擠
 
 ### SCSS 規劃
-1. [index.scss](https://github.com/Yiren-Liou/Bootstrap5_crowdfunding/blob/master/assets/scss/_index.scss) 客製化嘗試得不錯，這裡面還可以拆得更好一些，因為有些項目不是只有 index 才有。像是 `.btn-primary` 是每個頁面都有，建議可以多一個像是 `_custom.scss` 來進行擴充，不要都寫在 `index.scss`
-2. [GitHub Repo](https://github.com/HaroldZhen/crowdfunding_platform)`Layout` 是共通版型，`index.scss` 應放在 `pages` 資料夾，不建議放在 `Layout`
+1. 有些項目不是只有 index 才有。像是 `.btn-primary` 是每個頁面都有，建議可以多一個像是 `_custom.scss` 來進行擴充，不要都寫在 `index.scss`
+
